@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhrub00
+- 👋 Hi, I’m @Dhruba
 - 👀 I’m interested in Learning technical things
 - 🌱 I’m currently and doing Btech in electronics and communication 
 - 💞️ I’m looking to collaborate on various Electronics and IT related projects 
